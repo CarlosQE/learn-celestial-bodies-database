@@ -34,3 +34,6 @@ psql -U postgres < universe.sql
 psql --username=freecodecamp --dbname=postgres
 git clone https://github.com/CarlosQE/CelestialBDB
 git add .
+git commit -m "Pojecto Finalizado"
+git push origin main
+git add .
