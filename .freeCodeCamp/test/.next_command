@@ -37,3 +37,9 @@ git add .
 git commit -m "Pojecto Finalizado"
 git push origin main
 git add .
+git commit -m "Finish"
+git puch origin main
+git push origin main
+psql -U postgres < universe.sql
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+git add .
