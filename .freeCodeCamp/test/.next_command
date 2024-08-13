@@ -32,3 +32,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=postgres
 psql -U postgres < universe.sql
 psql --username=freecodecamp --dbname=postgres
+git clone https://github.com/CarlosQE/CelestialBDB
+git add .
